@@ -1,0 +1,33 @@
+_repo: Colonel-Edward-Buncombe-Fifth-North-Carolina-Continental-Regiment-His-Life-Military-Careeer-a__62397
+_version: 0.0.1
+alternative_title: Colonel Edward Buncombe, 5th North Carolina Continental Regiment
+creator:
+  author:
+    agent_name: Haywood, Marshall De Lancey
+    aliases:
+    - De Lancey Haywood, Marshall
+    - Lancey Haywood, Marshall De
+    - Haywood, Marshal DeLancey
+    birthdate: 1871
+    deathdate: 1933
+    gutenberg_agent_id: '51927'
+    url: http://www.gutenberg.org/2009/agents/51927
+description: ''
+gutenberg_issued: '2020-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62397'
+  lccn: 01022139
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Buncombe, Edward, 1742-1778'
+- !lcsh 'Fourth of July orations'
+- GITenberg
+title: "Colonel Edward Buncombe, Fifth North Carolina Continental Regiment\r\nHis\
+  \ Life, Military Careeer, and Death While a Wounded Prisoner in Philadelphia During\
+  \ the War of the Revolution"
+url: http://www.gutenberg.org/ebooks/62397
